@@ -1,0 +1,11 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: rainbow514063639@163.com
+    password: ZNIWSMNRTZUCGOJF
+    properties.mail.smtp.port: 994
+    from: rainbow514063639@163.com
+    properties.mail.smtp.starttls.enable: true
+    properties.mail.smtp.starttls.required: true
+    properties.mail.smtp.ssl.enable: true
+    default-encoding: utf-8
